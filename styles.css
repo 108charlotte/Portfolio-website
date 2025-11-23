@@ -1,0 +1,26 @@
+* {
+    font-family: "Titillium Web", sans-serif;
+    background-color: rgb(174, 196, 241); 
+}
+
+h1 {
+    color: rgb(0, 0, 0); 
+}
+
+div {
+    display: inline-block; 
+    margin: 10px; 
+}
+
+.section {
+    display: block; 
+    border: 5px solid rgb(7, 88, 252); 
+    padding: 0px 10px; 
+    border-radius: 10px; 
+    background-color: rgb(102, 149, 244); 
+    color: white; 
+}
+
+p, h1, h2, div, h3 {
+    background-color: transparent; 
+}
